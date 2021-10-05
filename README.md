@@ -110,4 +110,4 @@ It should also work with
 MICOM: Metagenome-Scale Modeling To Infer Metabolic Interactions in the Gut Microbiota <br>
 Christian Diener, Sean M. Gibbons, Osbaldo Resendis-Antonio <br>
 mSystems 5:e00606-19 <br>
-https://doi.org/10.1128/mSystems.00606-19
+https:com.doi.org/10.1128/mSystems.00606-19
